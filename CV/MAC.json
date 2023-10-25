@@ -13,9 +13,16 @@
     },
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/chrisvill2312/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/chrisvill2312/"
+      },
+      {
         "type": "other",
-        "URL": "https://christianvillegas.com/",
-        "description": "My own web"
+        "URL": "https://christianvillegas.com/"
       }
     ]
   },
@@ -331,6 +338,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Express",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "El desarrollo de software e infraestructuras que los soporte me fascinan. El trabajo ideal para mi es uno donde pueda desarrollarme e ir creciendo en conocimientos y experiencia, no solamente tocando nuevas tecnologías, sino también nuevos retos. Donde el ambiente laboral sea adecuado y amigable aun en los malos momentos y poder tener una relación profesional con mis pares disfrutable. Y que el rédito económico, de experiencia y humano tenga un techo alto que con mérito pueda escalar.",
     "goodPractices": "Me gusta codear respetando los principios SOLID y DRY tanto como pueda y que no signifique un coste alto en tiempo. Que el código sea legible y entendible tanto como para utilizar lo mínimo si hay que argumentar en medio del código e ir implementando metodologías de notación como BEM por ejemplo para agilizar y no pisarme cuando el código queda fragmentado en varios sitios."
   }
